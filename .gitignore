@@ -1,0 +1,67 @@
+# Compiled executables
+parking
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Temporary files
+*~
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Compiler generated files
+*.gch
+*.pch
+
+# Build directories
+build/
+bin/
+obj/
+
+# Log files
+*.log
+
+# Core dumps
+core.*
+
+# Backup files
+*.bak
+*.backup
+
+# System files
+.directory
+
+# Coverage files (if using code coverage tools)
+*.gcov
+*.gcno
+*.gcda
+
+# Profiling files
+gmon.out
+
+# Static analysis output
+cppcheck-results.xml
+
+# Documentation build
+docs/_build/
+
+# Package files
+*.zip
+*.tar.gz
+*.tar.bz2
