@@ -38,7 +38,7 @@ A comprehensive C++ implementation of a parking lot management system using link
 ### Option 1: Direct Compilation
 ```bash
 # Clone the repository
-git clone https://github.com/[YOUR_USERNAME]/smart-parking-system.git
+git clone https://github.com/PRANAVZALKE/smart-parking-system.git
 
 # Navigate to source directory
 cd smart-parking-system/src
@@ -174,10 +174,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Computer Science Student  
-[Your University/Institution]  
-[Your Email]
+**Pranav Arvind Zalke**  
+CSE AI/DS Student
+PIET, Parul University 
 
 ## 📄 License
 
